@@ -1,0 +1,15 @@
+
+VCFtools - 0.1.17
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf [stdin]
+	--out processed_data/3.smartpca/saimaa_20_phased_posmask
+	--plink
+
+Using zlib version: 1.2.11
+After filtering, kept 98 out of 98 Individuals
+Writing PLINK PED and MAP files ... 
+Done.
+After filtering, kept 915849 out of a possible 915849 Sites
+Run Time = 13.00 seconds

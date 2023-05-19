@@ -1,0 +1,8 @@
+genotypename:    processed_data/3.smartpca/saimaa_20_phased_posmask.ped
+snpname:         processed_data/3.smartpca/saimaa_20_phased_posmask.map 
+indivname:       processed_data/3.smartpca/saimaa_20_phased_posmask.ped 
+outputformat:    EIGENSTRAT
+genotypeoutname: processed_data/3.smartpca/saimaa_20_phased_posmask.geno
+snpoutname:      processed_data/3.smartpca/saimaa_20_phased_posmask.snp
+indivoutname:    processed_data/3.smartpca/saimaa_20_phased_posmask.ind
+familynames:     NO

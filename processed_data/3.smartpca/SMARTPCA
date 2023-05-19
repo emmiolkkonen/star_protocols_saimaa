@@ -1,0 +1,7 @@
+genotypename:    processed_data/3.smartpca/saimaa_20_phased_posmask.geno
+snpname:         processed_data/3.smartpca/saimaa_20_phased_posmask.snp
+indivname:       processed_data/3.smartpca/saimaa_20_phased_posmask.ind 
+evecoutname:     results/3.smartpca/saimaa_20_phased_posmask.evec
+evaloutname:     results/3.smartpca/saimaa_20_phased_posmask.eval
+numoutevec:      10
+numthreads:      4
