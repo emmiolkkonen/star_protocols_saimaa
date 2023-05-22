@@ -1,1 +1,2 @@
-# star_protocols_saimaa
+# Analysis of population structure and genetic diversity in low-variance Saimaa ringed seals using low-coverage whole-genome sequence data
+This repository contains code, instructions and a test dataset for replicating parts of the population genetics analysis originally described by Löytynoja et al. (2023).
