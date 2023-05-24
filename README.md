@@ -25,6 +25,7 @@ The following software is necessary for replicating the analysis:
   - GenomeAnalysisTK, v. 3.8-1-0 (https://console.cloud.google.com/storage/browser/gatk-software/package-archive/gatk)
   - ANGSD, v.1.16.1 (https://github.com/ANGSD/angsd)
   - PCANGSD, v.0.99 (https://github.com/Rosemeis/pcangsd], https://github.com/Rosemeis/pcangsd/releases/tag/v.0.99)
+  - Beagle, v.4.1 (https://faculty.washington.edu/browning/beagle/beagle.html) 
   - RepeatMasker, v. open-4.0.5 (https://www.repeatmasker.org/)
   - SNPable (https://lh3lh3.users.sourceforge.net/snpable.shtml)
   - PLINK, v.1.90 (https://www.cog-genomics.org/plink/)
