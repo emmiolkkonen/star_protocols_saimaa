@@ -8,7 +8,7 @@ Notebooks containing the code for each step of the analysis are located in the d
 
 ### Data
 
-A test variation dataset of 20 contigs is located in [processed_data/2.masking-filtering/](./processed_data/2.masking-filtering/). For the analysis steps onwards from smartpca, data required for running each step independently is provided in [processed_data/](./processed_data/), in subdirectories named according to the analysis step at hand. The fasta index file for the reference genome is located in [data/reference/](./data/reference/), while the reference genome can be downloaded from ENA under accession number PRJEB56423. Raw sequencing data of the Saimaa ringed seals can be found in ENA under accession number PRJEB56317. Other data required for some steps of the analysis, such as a list of sample IDs and sample and lake coordinates are located in [data/](./data/) and [data/saimaa_map](./data/saimaa_map).
+A test variation dataset of 20 contigs is located in [processed_data/2.masking-filtering/](./processed_data/2.masking-filtering/). For the analysis steps onwards from smartpca, data required for running each step independently for the 20 contigs is provided in [processed_data/](./processed_data/), in subdirectories named according to the analysis step at hand. The fasta index file for the reference genome is located in [data/reference/](./data/reference/), while the reference genome can be downloaded from ENA under accession number PRJEB56423. Raw sequencing data of the Saimaa ringed seals can be found in ENA under accession number PRJEB56317. Other data required for some steps of the analysis, such as a list of sample IDs and sample and lake coordinates are located in [data/](./data/) and [data/saimaa_map](./data/saimaa_map).
 
 ### Software
 
