@@ -1,0 +1,27 @@
+PLINK v1.90b7 64-bit (16 Jan 2023)
+Options in effect:
+  --allow-extra-chr
+  --distance ibs square
+  --vcf /home/emmiolkk/Documents/star_protocols_saimaa/processed_data/2.masking-filtering/saimaa_20_phased_posmask.vcf.gz
+
+Hostname: lx3-919-28431.ad.helsinki.fi
+Working directory: /home/emmiolkk/Documents/star_protocols_saimaa/processed_data/4.finestructure/IBS
+Start time: Mon Jul 24 17:39:29 2023
+
+Random number seed: 1690209569
+15671 MB RAM detected; reserving 7835 MB for main workspace.
+--vcf: plink-temporary.bed + plink-temporary.bim + plink-temporary.fam written.
+915849 variants loaded from .bim file.
+98 people (0 males, 0 females, 98 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to plink.nosex .
+Using up to 11 threads (change this with --threads).
+Before main variant filters, 98 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is in [0.9999995, 1).
+915849 variants and 98 people pass filters and QC.
+Note: No phenotypes present.
+Distance matrix calculation complete.
+IDs written to plink.mibs.id .
+IBS matrix written to plink.mibs .
+
+End time: Mon Jul 24 17:39:33 2023
