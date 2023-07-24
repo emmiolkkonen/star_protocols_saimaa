@@ -31,6 +31,5 @@ The following software is necessary for replicating the analysis:
   - PLINK, v.1.90 (https://www.cog-genomics.org/plink/)
   - convertf and smartpca from the Eigensoft package, v. 8.0.0 (https://github.com/DReichLab/EIG)
   - fineSTRUCTURE (including ChromoPainter), v. 4.1. (https://people.maths.bris.ac.uk/~madjl/finestructure/)
-  - GNU parallel 20210822 (https://www.gnu.org/software/parallel/)
 
-The software is assumed to be installed in or linked to directory [bin/](./bin/). The installation of required R packages is included in the scripts provided. 
+The software is assumed to be installed in or linked to directory [bin/](./bin/). The installation of required R packages is included in the scripts. Additionally, a YAML file for conda installation of software and R packages is provided. 
