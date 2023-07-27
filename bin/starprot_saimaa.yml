@@ -1,0 +1,38 @@
+name: starprot_saimaa
+channels:
+  - conda-forge
+  - pkgs/r
+#  - defaults
+  - bioconda
+  - compbiocore
+dependencies:
+# Software used in the project, excluding pcangsd v.0.99., fineSTRUCTURE v.4.1.0 and SNPable
+  - bwa=0.7.17 
+  - samtools=1.16.1 
+  - plink=1.90b6.21
+  - bcftools=1.17
+  - VCFtools=0.1.16 #(0.1.17 on laptop)
+  - gatk=3.8
+  - angsd=0.940
+  - beagle=4.1_21Jan17.6cc.jar #(beagle.08Jun17.d8b.jar in manuscript, both version 4.1)
+  - eigensoft=8.0.0
+  - repeatmasker=4.1.5
+  - perl-switch=2.17
+# Latest versions of R packages
+  - r-essentials=4.3 # r-base 4.3.1 installed
+  - geos=3.12.0
+  - r-rgeos=0.6_4
+  - r-rgdal=1.6_6
+  - r-sf=1.0_14
+  - r-fasterize=1.0.4
+  - r-tidyverse=2.0.0
+  - r-gdistance=1.6.4
+  - r-ggthemes=4.2.4 
+  - bioconductor-iranges=2.34.1
+  - r-scales=1.2.1
+  - r-reshape2=1.4.4
+  - r-cowplot=1.1.1
+  - r-ape=5.7_1
+  - r-xml=3.99_0.14
+  - r-rlist=0.4.6.2
+  - r-magick=2.7.4
