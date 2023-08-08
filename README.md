@@ -32,4 +32,4 @@ The following software is necessary for replicating the analysis:
   - convertf and smartpca from the Eigensoft package, v. 8.0.0 (https://github.com/DReichLab/EIG)
   - fineSTRUCTURE (including ChromoPainter), v. 4.1. (https://people.maths.bris.ac.uk/~madjl/finestructure/)
 
-The software is assumed to be installed in or linked to directory [bin/](./bin/). The installation of required R packages is included in the scripts. Additionally, a YAML file for conda installation of software and R packages is provided. 
+The software is assumed to be installed in or linked to directory [bin/](./bin/). The installation of required R packages is included in the scripts. Additionally, a YAML file for conda installation of R packages and most of the software, and a bash script for installing the rest of the software are provided in directory [bin/](./bin/).
