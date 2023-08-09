@@ -16,7 +16,7 @@ To give an idea of what the outcomes of the analysis should look like and allow 
 
 ### Software
 
-The following software is necessary for replicating the analysis:
+The following software is used in the projet:
 
   - BWA MEM, version 0.7.17 (https://github.com/lh3/bwa) 
   - VCFtools, v.01.17 (https://github.com/vcftools/vcftools)
